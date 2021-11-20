@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+The life of the wife is ended by the knife
 Use the left arrow to go back!
